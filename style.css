@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+
+}
+h1{
+    background-color: black;
+    padding: 30px;
+    margin: -20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.box{
+    background-color: white;
+    margin: auto;
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    padding: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-size: 25px;
+}
+input{
+    width: 300px;
+    font-size: 20px;
+}
